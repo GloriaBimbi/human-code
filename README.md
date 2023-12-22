@@ -1,6 +1,6 @@
 # Contare i posti a tavola di 2 in 2
 
-## Ci s(t)iamo tutti?
+## _Ci s(t)iamo tutti?_
 
 ### CONSEGNA:
 
@@ -9,17 +9,21 @@ Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però 
 
 #### SOLUZIONE:
 
-- FINCHE' ci sono 2 piatti a tavola E ci sono 2 persone in sala da pranzo in piedi
+- vado a casa della nonna
+- entro nella sala da pranzo per controllare che la tavola sia apparecchiata nel modo opportuno
+- _FINCHE'_ ci sono 2 piatti a tavola _E_ ci sono 2 persone in sala da pranzo in piedi
 
-  - ALLORA segno i piatti come contati
-  - ALLORA faccio sedere le due persone davanti ai due piatti contati
+  - _ALLORA_ segno i piatti come contati
+  - _ALLORA_ faccio sedere le due persone davanti ai due piatti contati
 
-- ALTRIMENTI
-  - SE c'è una persona E non c'è un piatto
+- _ALTRIMENTI_
+  - _SE_ c'è una persona _E_ non c'è un piatto
     - aggiungi un piatto a tavola
     - ricomincia il giro (per verificare che non si siano aggiunti invitati)
-  - ALTRIMENTI
-    - buon appetito
+  - _ALTRIMENTI_
+    - buon appetito!
 
-(abbiamo assunto che ci fossero almeno due persone come da consegna)
-(abbiamo assunto che mancasse un piatto e non una persona, come da consegna)
+##### DISCLAIMER:
+
+1. abbiamo assunto che ci fossero almeno due persone, come da consegna
+2. abbiamo assunto che mancasse un piatto e non una persona, come da consegna
